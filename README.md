@@ -60,4 +60,4 @@ streamlit run app.py
 ```
 ---
 ## 👤 Author
--Sarthya Prakash
+Sarthya Prakash
